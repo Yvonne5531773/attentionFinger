@@ -1,0 +1,8 @@
+{
+  "splatterSound": {
+    "url": "musics/splatter.mp3"
+  },
+  "coinSound": {
+    "url": "musics/coin.mp3"
+  }
+}
